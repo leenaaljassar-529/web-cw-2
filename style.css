@@ -1,0 +1,51 @@
+header{
+    background-color: #607089;
+    color:whitesmoke;
+    padding:1px;
+    text-align: center;
+}
+h3{
+    color:whitesmoke;
+}
+body,p{
+    color:whitesmoke;
+}
+
+.coding{
+    background-color: #718CAC;
+    padding:1px;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+}
+.centert{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+p{
+    text-align: center;
+}
+.section2{
+    background-color: #8DAFDA;
+    padding:1px;
+    text-align: center;
+}
+.section3{
+    background-color:  rgb(184, 209, 241);
+    padding:3px;
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+}
+.left{
+text-align: end;
+}
+th{
+    color: rgb(161, 183, 226);
+    background-color: white;
+}
